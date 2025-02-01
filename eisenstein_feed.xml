@@ -1,22 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-    <channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+    <title>The Flight of the Eisenstein</title>
+    <description>Having witnessed the terrible massacre of Imperial forces on Isstvan III, Death Guard Captain Garro seizes a ship and sets a course for Terra to warn the Emperor of Horus's treachery. But when the fleeing Eisenstein is damaged by enemy fire, it becomes stranded in the warp - the realm of the Dark Powers.</description>
+    <link>https://example.com/the-flight-of-the-eisenstein</link>
+    <image>
+        <url>https://c.media-amazon.com/images/I/81imY16u8DL._SL1500_.jpg</url>
         <title>The Flight of the Eisenstein</title>
-        <description>Having witnessed the terrible massacre of Imperial forces on Isstvan III, Death Guard Captain Garro seizes a ship and sets a course for Terra to warn the Emperor of Horus&#039;s treachery. But when the fleeing Eisenstein is damaged by enemy fire, it becomes stranded in the warp - the realm of the Dark Powers.</description>
-        <image>
-            <title>The Flight of the Eisenstein</title>
-            <url>https://c.media-amazon.com/images/I/81imY16u8DL._SL1500_.jpg</url>
-        </image>
-        <item>
-            <title>The Flight of the Eisenstein Chapter 2</title>
-            <description></description>
-            <link></link>
-            <enclosure url="https://audio.jukehost.co.uk/OZGBTmDRr9uN5neRS1IhaIscAbcShNZD" type="audio/mpeg" length="0"/>
-        </item>
-        <item>
-            <title>The Flight of the Eisenstein Chapter 1</title>
-            <description></description>
-            <link></link>
-            <enclosure url="https://audio.jukehost.co.uk/1TCWQ5mZBhSmjfLBTSwT5KjJG7c1OPa5" type="audio/mpeg" length="0"/>
-                    </item>
-    </channel>
+        <link>https://example.com/the-flight-of-the-eisenstein</link>
+    </image>
+    <itunes:image href="https://c.media-amazon.com/images/I/81imY16u8DL._SL1500_.jpg" />
+    <item>
+        <title>The Flight of the Eisenstein Chapter 2</title>
+        <description>The second chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-2</link>
+        <pubDate>Thu, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode2-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/OZGBTmDRr9uN5neRS1IhaIscAbcShNZD" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 1</title>
+        <description>The first chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-1</link>
+        <pubDate>Wed, 31 Jan 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode1-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/1TCWQ5mZBhSmjfLBTSwT5KjJG7c1OPa5" type="audio/mpeg" length="87654321" />
+    </item>
+</channel>
 </rss>
