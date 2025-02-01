@@ -1,6 +1,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
     <title>The Flight of the Eisenstein</title>
+    <itunes:author>James Swallow</itunes:author>
     <description>Having witnessed the terrible massacre of Imperial forces on Isstvan III, Death Guard Captain Garro seizes a ship and sets a course for Terra to warn the Emperor of Horus's treachery. But when the fleeing Eisenstein is damaged by enemy fire, it becomes stranded in the warp - the realm of the Dark Powers.</description>
     <link>https://example.com/the-flight-of-the-eisenstein</link>
     <image>
@@ -9,21 +10,142 @@
         <link>https://example.com/the-flight-of-the-eisenstein</link>
     </image>
     <itunes:image href="https://c.media-amazon.com/images/I/81imY16u8DL._SL1500_.jpg" />
-    <item>
-        <title>The Flight of the Eisenstein Chapter 2</title>
-        <description>The second chapter of The Flight of the Eisenstein.</description>
-        <link>https://example.com/the-flight-of-the-eisenstein/chapter-2</link>
-        <pubDate>Thu, 01 Feb 2025 10:00:00 GMT</pubDate>
-        <guid isPermaLink="false">episode2-unique-id</guid>
-        <enclosure url="https://audio.jukehost.co.uk/OZGBTmDRr9uN5neRS1IhaIscAbcShNZD" type="audio/mpeg" length="12345678" />
-    </item>
+
     <item>
         <title>The Flight of the Eisenstein Chapter 1</title>
         <description>The first chapter of The Flight of the Eisenstein.</description>
         <link>https://example.com/the-flight-of-the-eisenstein/chapter-1</link>
-        <pubDate>Wed, 31 Jan 2025 10:00:00 GMT</pubDate>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
         <guid isPermaLink="false">episode1-unique-id</guid>
-        <enclosure url="https://audio.jukehost.co.uk/1TCWQ5mZBhSmjfLBTSwT5KjJG7c1OPa5" type="audio/mpeg" length="87654321" />
+        <enclosure url="https://audio.jukehost.co.uk/1TCWQ5mZBhSmjfLBTSwT5KjJG7c1OPa5" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 2</title>
+        <description>The second chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-2</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode2-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/OZGBTmDRr9uN5neRS1IhaIscAbcShNZD" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 3</title>
+        <description>The third chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-3</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode3-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/JQ1DDX6Udd1ugEJhWzqnxguLMsLksi66" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 4</title>
+        <description>The fourth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-4</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode4-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/JcpXmMRzqSXKrz6oFKbkcDWadCPaQvb8" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 5</title>
+        <description>The fifth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-5</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode5-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/rqveRd0VfF4ihzkNIh1cKyU1aCC8k8T0" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 6</title>
+        <description>The sixth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-6</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode6-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/9kUF3a1sooMYKUwuWIicUCfQrSRRJ05c" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 7</title>
+        <description>The seventh chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-7</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode7-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/Zmtli6K2G8khefem2K0ddV40G4AmhU5U" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 8</title>
+        <description>The eighth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-8</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode8-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/chapter8-audio-url" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 9</title>
+        <description>The ninth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-9</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode9-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/XU25lDEu56K5L7FKep6KGIuZpx13kL4F" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 10</title>
+        <description>The tenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-10</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode10-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/BQwlnqVfYvvfmB02kVkIi4580y2zPTFM" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 11</title>
+        <description>The eleventh chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-11</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode11-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/pxub9VUmHHWczbzeBDxc6ggX25YH5a2a" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 12</title>
+        <description>The twelfth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-12</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode12-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/RXS7CH36P9sNJ8KcR9D11nSxdclV7Be5" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 13</title>
+        <description>The thirteenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-13</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode13-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/p41rz8VIWdhWPEvPGg7o3WH4jXLeVDHC" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 14</title>
+        <description>The fourteenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-14</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode14-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/9itelHCOWk5hlSRYk22FHQSXeVtCqTCi" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 15</title>
+        <description>The fifteenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-15</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode15-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/gL0gEgjANzuCE13VmZqjUfrDBfyb9A2a" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 16</title>
+        <description>The sixteenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-16</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode16-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/l1owRuXu8hhOXTTk3SGKx311LgWgHDu4" type="audio/mpeg" length="12345678" />
+    </item>
+    <item>
+        <title>The Flight of the Eisenstein Chapter 17</title>
+        <description>The seventeenth chapter of The Flight of the Eisenstein.</description>
+        <link>https://example.com/the-flight-of-the-eisenstein/chapter-17</link>
+        <pubDate>Sat, 01 Feb 2025 10:00:00 GMT</pubDate>
+        <guid isPermaLink="false">episode17-unique-id</guid>
+        <enclosure url="https://audio.jukehost.co.uk/JhprMRYpyIURiLSCgYqEN1Nhp9gE6Euw" type="audio/mpeg" length="12345678" />
     </item>
 </channel>
 </rss>
